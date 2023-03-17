@@ -1,0 +1,17 @@
+.navbar-bg{
+background-color: #131921;
+}
+.nav-btm{
+    background-color: #232f3e;
+    height: 48px !important;
+    min-height: 3rem;
+    padding: 0;
+}
+.mobile-icons{
+    width: 180px;
+    background: #0676bd;
+    height: 3rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px 0px;
+}
